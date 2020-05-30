@@ -1,3 +1,1 @@
-Hello dev!
-
-Some update.
+New update

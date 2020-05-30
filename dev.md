@@ -1,3 +1,3 @@
 Hello dev!
 
-Some update.
+Update from Git Kraken

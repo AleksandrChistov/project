@@ -1,1 +1,1 @@
-New content
+Content from Git Kraken
